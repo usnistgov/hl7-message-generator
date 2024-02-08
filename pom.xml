@@ -41,7 +41,7 @@
         <dependency>
 
         <groupId>gov.nist.healthcare.hl7.v2.unifiedreport</groupId>
-        <artifactId>unified-report</artifactId>
+        <artifactId>report</artifactId>
         <version>1.0.10-SNAPSHOT</version>
 
         </dependency>
